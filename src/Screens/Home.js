@@ -23,7 +23,8 @@ export default function Home() {
   console.log(person);
   return (
     <div>
-      <Navbar />
+      <Navbar /><br /><br /> 
+      <h1>&nbsp;&nbsp;&nbsp;&nbsp;Details of all the registered users :-</h1><br /><br />
       <div class="container">
         
 
@@ -39,7 +40,7 @@ export default function Home() {
               
               
               )
-            }) : <div>""""</div>
+            }) : <div><h1>Server Not Connected</h1></div>
           }
             </div>
         

@@ -28,15 +28,7 @@ router.post("/alumini",
         email: req.body.email,
         password: secPassword,
         phone: req.body.phone,
-        company: req.body.company,
-        yop: req.body.yop,
-        linkedin: req.body.linkedin,
-        instagram: req.body.instagram,
-        github: req.body.github,
-        college: req.body.college,
-        designation: req.body.designation,
-        img:req.body.img,
-        resume:req.body.resume
+        
         
       })
       res.json({ success: true })
