@@ -1,3 +1,8 @@
+
+![Screenshot (142)](https://github.com/Gajendra1809/Greenie_task/assets/76029430/7cdb80b0-da8f-4940-af81-fe2c6693122a)
+![Screenshot (141)](https://github.com/Gajendra1809/Greenie_task/assets/76029430/c2ed99f0-6931-43d8-801d-5b28245f7914)
+![Screenshot (140)](https://github.com/Gajendra1809/Greenie_task/assets/76029430/ad3aa0f2-65b3-49f5-983a-1b08427e2680)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,7 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-![Screenshot (142)](https://github.com/Gajendra1809/Greenie_task/assets/76029430/7cdb80b0-da8f-4940-af81-fe2c6693122a)
-![Screenshot (141)](https://github.com/Gajendra1809/Greenie_task/assets/76029430/c2ed99f0-6931-43d8-801d-5b28245f7914)
-![Screenshot (140)](https://github.com/Gajendra1809/Greenie_task/assets/76029430/ad3aa0f2-65b3-49f5-983a-1b08427e2680)
 
